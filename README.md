@@ -9,3 +9,5 @@ Can you convince yourself that using delta and estimating on the unlabeled data 
 What is the subgradient for convex problem (definition)? 
 
 
+This is the link for the latex file on overleaf: 
+https://www.overleaf.com/9251721923hwfftnmjzggd#46e00b
